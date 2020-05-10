@@ -14,12 +14,12 @@ import javax.servlet.annotation.WebFilter;
  */
 @WebFilter("/index.html* ")
 
-public class Filtro implements Filter {
+public class filtro implements Filter {
 
     /**
      * Default constructor. 
      */
-    public Filtro() {
+    public filtro() {
         // TODO Auto-generated constructor stub
     }
 
